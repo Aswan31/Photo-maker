@@ -7,7 +7,7 @@
   <style>
     body {
       margin: 0;
-      height: 100vh;
+      height: 200vh;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -19,7 +19,7 @@
     }
 
     .container {
-      max-width: 800px;
+      max-width: 900px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -29,10 +29,10 @@
     .face {
       background: url('https://via.placeholder.com/300') no-repeat center center;
       background-size: cover;
-      width: 300px;
-      height: 300px;
-      border-radius: 10px;
-      filter: contrast(1.2) grayscale(100%);
+      width: 500px;
+      height: 500px;
+      border-radius: 15px;
+      filter: contrast(1.7) grayscale(100%);
     }
 
     .text {
